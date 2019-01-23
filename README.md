@@ -1,27 +1,37 @@
-ZAGG Protocol Docs
+docs
 ==================
 
 This repository hosts all ZAGG Protocol docs and the relevant docs of other projects. The repository is being continuosly updated to give full information on the ZAGG Protocol specifications.
 
-## Introduction
+## ZAGG Protocol
 
 Privacy is one of the biggest hurdles enterprises face while adopting public chains for payments and transactions. Enterprises need the ability to conduct certain transactions confidentially without having to reveal the transaction details. Currently, account-based public chains are used to support arbitrary smart contracts, allowing complex business rules to be executed on the public chain. 
 
 Implementing privacy on account-based blockchains without leaking data and securing against double spend is a challenge with existing technology. Innovations in ZAGG Protocol bring privacy to public blockchain through a hybrid model of tracking assets and values on the blockchain with both Accounts and UTXOs. This solution adapts the privacy and robustness of the UTXO model’s construct to build a flexible and programmable account-based blockchain. The protocol also introduces the concept of Integrated subchains that will allow for nodes to privately transact one-to-one or in a coalition group within public chain without side chains/off-chains while allowing for mathematically provable assertions about effects of the private transactions without leaking information about the private transactions or coalitions.
 
+Please refer to [guides] (https://github.com/stellar/docs/tree/master/guides) for full understanding of ZAGG Protocol on problem statement, technology solution and business case.
 
-[Contribution Guide](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+### Quick References
+
+[Introduction](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+
+[Protocol Overview] (https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+
+[Business Case] (https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+
+[Adoption Strategy & Progress] (https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+
+## Development
+
+ZAGG Protocol is based on stellar and Bitcoin code, it intends to add enterprise-grade privacy through Zero Knowledge Proofs (ZKPs).
+
+The Protocol details as mentioned here are being implemented as per the below roadmap.
+
+[Implementation Roadmap] (https://github.com/zagg-protocol/docs/blob/master/Roadmap.md)
 
 
 
-
-
-
-## Implementation Roadmap
-
-
-
-ZAGG Protocol Github has the following repositories
+Currently, ZAGG Protocol Github has the following repositories:
 
 ## ZAGG-Core
 
@@ -29,8 +39,6 @@ ZAGG Protocol Github has the following repositories
 ## docs
 This repository hosts all ZAGG Protocol docs and the relevant docs of other projects. The repository is being continuosly updated to give full information on the ZAGG Protocol specifications.
 
-
-h
 
 
 
