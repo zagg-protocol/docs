@@ -15,11 +15,11 @@ Please refer to [guides] (https://github.com/stellar/docs/tree/master/guides) fo
 
 [Introduction](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
 
-[Protocol Overview] (https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+[Protocol Overview](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
 
-[Business Case] (https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+[Business Case](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
 
-[Adoption Strategy & Progress] (https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+[Adoption Strategy & Progress](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
 
 ## Development
 
