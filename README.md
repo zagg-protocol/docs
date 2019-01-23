@@ -13,13 +13,12 @@ Please refer to [guides] (https://github.com/stellar/docs/tree/master/guides) fo
 
 ### Quick References
 
-[Introduction](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+[Introduction](https://github.com/zagg-protocol/docs/blob/master/Concepts/Introduction.md)
 
-[Protocol Overview](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+[Protocol Overview)(https://github.com/zagg-protocol/docs/blob/master/Concepts/protocol-overview.md)
 
-[Business Case](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
+[Business Case & Adoption](https://github.com/zagg-protocol/docs/blob/master/Concepts/business-case.md)
 
-[Adoption Strategy & Progress](https://github.com/stellar/docs/blob/master/CONTRIBUTING.md)
 
 ## Development
 
@@ -31,16 +30,14 @@ The Protocol details as mentioned here are being implemented as per the below ro
 
 
 
-## Repositories
+### Repositories
 Currently, ZAGG Protocol Github has the following repositories:
 
-### ZAGG-Core
+#### ZAGG-Core
 
 
-### docs
+#### docs
 This repository hosts all ZAGG Protocol docs and the relevant docs of other projects. The repository is being continuosly updated to give full information on the ZAGG Protocol specifications.
-
-
 
 
 -------
