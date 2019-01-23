@@ -15,7 +15,7 @@ Please refer to [guides] (https://github.com/stellar/docs/tree/master/guides) fo
 
 [Introduction](https://github.com/zagg-protocol/docs/blob/master/Concepts/Introduction.md)
 
-[Protocol Overview)(https://github.com/zagg-protocol/docs/blob/master/Concepts/protocol-overview.md)
+[Protocol Overview](https://github.com/zagg-protocol/docs/blob/master/Concepts/protocol-overview.md)
 
 [Business Case & Adoption](https://github.com/zagg-protocol/docs/blob/master/Concepts/business-case.md)
 
