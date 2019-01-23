@@ -27,16 +27,17 @@ ZAGG Protocol is based on stellar and Bitcoin code, it intends to add enterprise
 
 The Protocol details as mentioned here are being implemented as per the below roadmap.
 
-[Implementation Roadmap] (https://github.com/zagg-protocol/docs/blob/master/Roadmap.md)
+[Implementation Roadmap](https://github.com/zagg-protocol/docs/blob/master/Roadmap.md)
 
 
 
+## Repositories
 Currently, ZAGG Protocol Github has the following repositories:
 
-## ZAGG-Core
+### ZAGG-Core
 
 
-## docs
+### docs
 This repository hosts all ZAGG Protocol docs and the relevant docs of other projects. The repository is being continuosly updated to give full information on the ZAGG Protocol specifications.
 
 
