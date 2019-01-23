@@ -3,6 +3,8 @@ ZAGG Protocol proposes a hybrid model of Accounts and UTXOs for storage of asset
 *Account Balance → UTXO/SUTXO → Account Balance Analogy:
 Bank account balance → Withdraw currency from the account in denominations → Spend the currency in the denominations→ Receiver deposits the currency into Bank account*
 
+<Image>
+
 Every user holds an account on the public blockchain which holds both account balances and also her unspent UTXOs. When the user wishes to exchange these assets in private, the user can initiate a transaction to convert a fixed amount of their assets into UTXOs with a value of their choice. For example, if a user, Alice, has assets worth 1000 in her wallet, she can withdraw 200 worth of assets and generate two UTXOs, each of value 100.
 
 Conversion of value in Accounts to UTXOs will generate Zero-Knowledge Proof of the computation and output Shielded UTXOs ( SUTXOCommitments ) that will be sent to the shielded address of the user. Proof of Conversion (Zero Knowledge Proof) is attached to the withdrawal transaction on the public ledger without revealing the exact number or the value of the UTXOs generated. (The public chain only validates that x amount is converted into UTXOs, and that no new currency is created, nor any is destroyed). Commitments corresponding to the UTXOs are added to commitment Merkle tree. This mechanism is independent of the consensus used to put these UTXOs and commitments on to the public ledger.
