@@ -1,3 +1,6 @@
+========
+Overview
+========
 ZAGG Protocol proposes a hybrid model of Accounts and UTXOs for storage of assets and value. This solution leverages the privacy and robustness of the UTXOs construct into a flexible and powerful account-based blockchain. A user can convert a certain amount of balance into UTXOs and vice versa. UTXOs can be transacted in privacy subchains with spend receipts (similar to Nullifiers in ZCash or Key Images in Monero) maintained across public and private subchains to avoid double spending. We call these privacy-enabled UTXOs “SUTXOs” - Shielded UTXOs.
 
 *Account Balance → UTXO/SUTXO → Account Balance Analogy:
