@@ -17,6 +17,3 @@ Commitment Merkle tree and spend receipt sets are shared between all the Private
 A user can then spend these UTXOs on the private subchains by creating spend receipts and new commitments. Every transaction on the private subchain updates commitments and spend receipts. Every transaction carries an attached ZK proof. Currently, the speed of transactions on the private chains is limited by the speed of consensus used for commitment and spend receipts Merkle trees.
 This privacy approach is agnostic to the underlying ledger consensus mechanism. The privacy framework is portable across all accounts based blockchains with POS, POW, FBA, and other Layer 1 consensus. All the transactions related to shielded UTXOs like creation, spend and deposit to the accounts are validated by all the nodes on the public chain using the Zero- Knowledge Proofs and spend receipts.
 For the first reference implementation of ZAGG Protocol, we have chosen to implement this privacy framework on the Stellar Consensus Protocol11. To obtain the public verifiability and avoid double spending across the network for the private transactions, the Zero Knowledge Proofs algorithms we will be using are ZK-SNARKS12. The following section describes the first implementation of this version of the protocol.
-
-
-
